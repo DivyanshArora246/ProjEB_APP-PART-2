@@ -1,0 +1,28 @@
+body
+{
+  color: white;
+  background: #83009b;
+}
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+h4
+{
+font-weight: 800;
+font-size: 20px;
+width: 150px;
+height: 30px;
+border-radius: 10px;
+}
